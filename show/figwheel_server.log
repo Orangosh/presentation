@@ -1,0 +1,9 @@
+[0mCompiling "resources/public/js/compiled/show.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/show.js" in 0.613 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/show/slides/slides.js
+[0mCompiling "resources/public/js/compiled/show.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/show.js" in 0.557 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/show/slides/slides.js
